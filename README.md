@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DushyantSingh-cyber
-- 👀 I’m interested in learning to code.
-- 🌱 I’m currently learning python
+- 👀 I’m interested in learning.
 - 💞️ I’m looking to collaborate on learning python programs
 - 📫 How to reach me dushyant30jun@gmail.com
 
